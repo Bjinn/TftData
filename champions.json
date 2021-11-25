@@ -6,12 +6,12 @@
     "traits": []
   },
   {
-    "name": "Aatrox",
-    "championId": "TFT5_Aatrox",
-    "cost": 1,
+    "name": "Akali",
+    "championId": "TFT6_Akali",
+    "cost": 5,
     "traits": [
-      "Set5_Redeemed",
-      "Set5_Legionnaire"
+      "Set6_Syndicate",
+      "Set6_Assassin"
     ]
   },
   {
